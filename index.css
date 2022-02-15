@@ -1,23 +1,4 @@
-
-	<!DOCTYPE html>
-	<html lang="en">
-	  <head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta http-equiv="X-UA-Compatible" content="ie=edge">
-		<title></title>
-	  
-	
-</head>
-<div id="container">
-	<h2>I AM</h2>
-	<h1>Tanika Wanjiru</h1>
-	<h2> Web Developer | CEO of Freedompreneur L.L.C.</h2>
-</div>
-   
-<style>
-
-	body {
+body {
 		  background-image: url('Freedom.jpg');
 		  background-repeat: no-repeat;
 		  background-attachment: fixed;
@@ -229,28 +210,5 @@
 	  }
 	}
 	
-		</style>
+
    
-    
-    
-<body>
-  
-  <div class="content">
-  <a href="about.html" class="link">About  </a>
-  <a href="Service.html" class="link">Services</a>
-  <a href="contact.html" class="link">Contact </a>
-  <a href="/Extras/extraextra.html" class="link">Extra</a>
-  
-  <div class="postscript">
-    GET TO KNOW<br>
-    WHAT I CAN DO! <br>
-    REACH OUT TO ME! <br>
-    
-   
-  </div>
-</div>
-
-
-</body>
-
-</html>
