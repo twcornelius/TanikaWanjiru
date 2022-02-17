@@ -1,11 +1,11 @@
 body {
-    background-color: #f70c81;
+    background-color: #8a0963;
   }
 
 .header {
     padding: 20px;
     text-align: right;
-    background: rgb(218, 233, 11);
+    background: rgb(233, 11, 11);
   }
 .h1{color:rgb(202, 16, 16)
 }
@@ -14,10 +14,7 @@ body {
   background-color: blue;
 }
 
-.under{
-    text-decoration: underline black 5px;
-    text-align:left;
-  }
+
  
   #leftbox {
     float:left; 
@@ -53,8 +50,4 @@ body {
     height:280px;
     text-align: center;
     
-}
-#rightbox:hover{
-    background-color: gray;
-    cursor: help;
-}
+} 
