@@ -1,0 +1,60 @@
+body {
+    background-color: #f70c81;
+  }
+
+.header {
+    padding: 20px;
+    text-align: right;
+    background: rgb(218, 233, 11);
+  }
+.h1{color:rgb(202, 16, 16)
+}
+
+.header:hover {
+  background-color: blue;
+}
+
+.under{
+    text-decoration: underline black 5px;
+    text-align:left;
+  }
+ 
+  #leftbox {
+    float:left; 
+    background:Red;
+    width:25%;
+    height:280px;
+    text-align: center;
+}
+    
+#leftbox:hover{
+    background-color: blueviolet;
+    cursor: help;
+}
+ 
+#middlebox{
+    float:left; 
+    background:Green;
+    width:50%;
+    height:280px;
+    text-align: center;
+    font-weight: bolder;
+}
+ 
+
+#middlebox:hover{
+    background-color: aqua;
+    cursor: help;
+}
+#rightbox{
+    float:right;
+    background:blue;
+    width:25%;
+    height:280px;
+    text-align: center;
+    
+}
+#rightbox:hover{
+    background-color: gray;
+    cursor: help;
+}
