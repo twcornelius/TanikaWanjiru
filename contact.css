@@ -112,7 +112,14 @@ h2 {
   text-align: center;
   transform: scale(.95, 1);
 }
-
+h4 {
+  font-family: 'Arimo', sans-serif;
+  color: #fff;
+  font-size: clamp(20px, 6vw, 40px);
+  letter-spacing: 2px;
+  text-align: center;
+  transform: scale(.95, 1); 
+}
 .links {
   display: flex;
   flex-wrap: wrap;
