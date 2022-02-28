@@ -83,6 +83,9 @@ body {
   border-radius: 0 10px 10px 0;
 }
 
+
+
+
 @media only screen and (max-width: 800px) {
   .contact-links, .contact-form-wrapper {
     width: 100%;
@@ -96,6 +99,7 @@ body {
     border-radius: 0 0 10px 10px;
   }
 }
+
 
 @media only screen and (max-width: 400px) {
   .contact-box {
@@ -216,6 +220,10 @@ textarea:valid+label {
   transform: scale(1.1, 1.1);
   filter: sepia(0.5);
 }
+
+ 
+
+ 
 
 @media only screen and (max-width: 800px) {
   h2 {
